@@ -1,6 +1,6 @@
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I’m Meet Doshi  </h2>
 
-<h4>Master's Student at Syracuse University pursuing Computer Science :open_book: </h4>
+<h4>MS in Computer Science from Syracuse University :open_book: </h4>
 <h4>How to reach me 📫: </h4>
    <a href="mailto:meetdoshi33@gmail.com"> 
      <img src="icons/social/gmail.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
